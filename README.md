@@ -1,5 +1,6 @@
-Restaurant Recommendation System 🍽️
-Author: Yashwanthkumar Rachamadugu
+# **Restaurant Recommendation System**
+
+### **Author:** Yashwanthkumar Rachamadugu
 
 ### **GitHub Repository:** [Restaurant\_Recommendation](https://github.com/YashwanthkumarRachamadugu/Restaurant_Recommendation)
 
@@ -50,8 +51,8 @@ Recommendations are generated based on the following user-defined parameters:
 | **NumPy**        | Numerical operations and array handling        |
 | **Streamlit**    | Interactive front-end web application          |
 
-
 ---
+
 ## **Deployment Instructions**
 
 ### **1. Required Files**
@@ -97,4 +98,3 @@ This will open a browser-based interface where users can specify their preferenc
 
 ## **Conclusion**
 This project demonstrates a practical application of machine learning techniques in the domain of personalized recommendations. By incorporating user preferences and employing robust content-based filtering methods, the system effectively delivers relevant restaurant suggestions, providing a solid foundation for future scalability and enhancement.
----
