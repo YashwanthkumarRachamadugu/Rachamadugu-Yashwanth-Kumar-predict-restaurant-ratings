@@ -1,4 +1,4 @@
-Restaurant Recommendation System
+Restaurant Recommendation System 🍽️
 Author: Yashwanthkumar Rachamadugu
 
 ### **GitHub Repository:** [Restaurant\_Recommendation](https://github.com/YashwanthkumarRachamadugu/Restaurant_Recommendation)
